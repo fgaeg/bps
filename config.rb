@@ -10,12 +10,12 @@ Time.zone = 'Jakarta'
 # Site Settings
 ###
 
-set :site_title, 'Model Social Network'
+set :site_title, 'BPS'
 set :site_author, 'humans.txt'
 set :site_language, 'en-us'
 set :site_url, 'http://domain.com'
-set :site_description, 'Discover your interesting gals'
-set :site_keywords, 'Discovery, Models'
+set :site_description, 'BPS Description'
+set :site_keywords, 'Bima, Arafah, Bima Arafah, Personal Site'
 
 
 ###
