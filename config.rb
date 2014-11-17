@@ -40,8 +40,8 @@ activate :blog do |blog|
   blog.day_link = "{year}/{month}/{day}.html"
 
   # Matcher for blog template
-  blog.tag_template = "blog/tag.html"
-  blog.calendar_template = "blog/calendar.html"
+  blog.tag_template = "#{blog.prefix}/tag.html"
+  blog.calendar_template = "#{blog.prefix}/calendar.html"
 
   # Matcher summary for blog posts
   # blog.summary_separator = /(READMORE)/
