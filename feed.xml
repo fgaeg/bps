@@ -14,11 +14,13 @@
     <link rel="alternate" href="http://blog.url.com/blog/new-blog-post/"/>
     <id>http://blog.url.com/blog/new-blog-post/</id>
     <published>2014-11-17T10:24:00+07:00</published>
-    <updated>2014-11-17T11:12:57+07:00</updated>
+    <updated>2014-11-25T13:22:11+07:00</updated>
     <author>
       <name>Article Author</name>
     </author>
     <content type="html">&lt;p&gt;Hi. This is a new blog post&lt;/p&gt;
+
+&lt;p&gt;&lt;img title="Optional title" alt="Alt text" src="new-blog-post/trail.jpg" /&gt;&lt;/p&gt;
 </content>
   </entry>
   <entry>
