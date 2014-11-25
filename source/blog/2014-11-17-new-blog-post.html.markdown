@@ -5,3 +5,5 @@ tags:
 ---
 
 Hi. This is a new blog post
+
+![Alt text](/blog/new-blog-post/trail.jpg "Optional title")

@@ -10,12 +10,15 @@ Time.zone = 'Jakarta'
 # Site Settings
 ###
 
-set :site_title, 'BPS'
+set :site_title, 'Boilerplate'
 set :site_author, 'humans.txt'
 set :site_language, 'en-us'
 set :site_url, 'http://domain.com'
-set :site_description, 'BPS Description'
-set :site_keywords, 'Bima, Arafah, Bima Arafah, Personal Site'
+set :site_description, 'The Description'
+set :site_keywords, 'A professional front-end template for building fast, robust, and adaptable web apps or sites using Middleman.'
+
+# set analytics account
+@analytics_account = false # or "UA-3769691-2"
 
 
 ###
